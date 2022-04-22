@@ -34,3 +34,7 @@ main {
     background-color: #6495ed;
     color: white;
 }
+
+.d-none {
+    display: none;
+}
